@@ -17,7 +17,7 @@ loader用的[52pojie](https://www.52pojie.cn/thread-1544866-1-1.html)的，respe
 -javaagent:BurpSuiteLoader1.jar
 -noverify
 ```
-![](assets/17274553006304.jpg)
+![](3.jpg)
 
 
 loader注册过程和之前的一样，然后直接启动～
